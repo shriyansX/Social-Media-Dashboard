@@ -2,7 +2,7 @@
 
 A modern, beautiful, and fully functional social media analytics dashboard built with vanilla JavaScript, HTML, and CSS. Features real-time data visualization, interactive charts, and stunning animations.
 
-![Dashboard Preview](https://social-media-dashboard-beta-eight.vercel.app/)
+View the website live at : https://social-media-dashboard-beta-eight.vercel.app/
 
 ## ✨ Features
 
